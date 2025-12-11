@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/1500x500/000000/FFFFFF?text=MOTO-MAQ-LAB-UC3M+%7C+Racing+Engineering" width="100%" alt="MOTO-MAQ-LAB-UC3M Banner" />
+<img src="./img/DSC01400.jpg" width="100%" alt="MOTO-MAQ-LAB-UC3M Banner" />
 
   <br/>
   <h1>🏁 MOTO-MAQ-LAB-UC3M 🏁</h1>
