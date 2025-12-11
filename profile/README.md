@@ -52,26 +52,9 @@
 
 <div align="center">
   <h2>🤝 Nuestros Partners</h2>
-  <p>La gasolina que impulsa nuestro sueño.</p>
-
-  <h3>🏆 PLATINUM SPONSORS</h3>
-  <h1>MAQLAB • ALTAIR</h1>
+  <p>La gasolina que impulsa nuestro sueño. Gracias por hacerlo posible.</p>
   
-  <br/>
-
-  <h3>🥇 GOLD SPONSORS</h3>
-  <h3>Gurit • Lasertek</h3>
-
-  <br/>
-
-  <h4>🥈 SILVER SPONSORS</h4>
   <p>
-    NTN • Solysol • Aeronáutica Gestión • SolidWorks <br/>
-    Castrol • Böllhoff • Facom • Cimworks
-  </p>
-
-  <h5>🥉 BRONZE SPONSORS</h5>
-  <p>
-    Valmoldes • NG • Addyx • Cogitim • EasyComposites • Bossard
+    <b>MAQLAB</b> • <b>ALTAIR</b> • <b>GURIT</b> • <b>LASERTEK</b> • <b>NTN</b> • <b>SOLYSOL</b> • <b>AERONÁUTICA GESTIÓN</b> • <b>SOLIDWORKS</b> • <b>CASTROL</b> • <b>BÖLLHOFF</b> • <b>FACOM</b> • <b>CIMWORKS</b> • <b>VALMOLDES</b> • <b>NG</b> • <b>ADDYX</b> • <b>COGITIM</b> • <b>EASYCOMPOSITES</b> • <b>BOSSARD</b>
   </p>
 </div>
