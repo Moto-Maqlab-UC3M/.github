@@ -69,10 +69,3 @@ En <b>MOTO MAQLAB UC3M</b>, diseñamos y fabricamos prototipos de competición d
 <br/>
 <hr/>
 <br/>
-
-<div align="center">
-  <h2>📈 Actividad en GitHub</h2>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Moto-Maqlab-UC3M&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moto-Maqlab-UC3M&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Languages" />
-</div>
