@@ -49,13 +49,3 @@
 </table>
 
 <hr/>
-
-<div align="center">
-  <h2>🤝 Nuestros Partners</h2>
-  <p>La gasolina que impulsa nuestro sueño. Gracias por hacerlo posible.</p>
-  
-  <p>
-    <b>MAQLAB</b> • <b>ALTAIR</b> • <b>GURIT</b> • <b>LASERTEK</b> • <b>NTN</b> • <b>SOLYSOL</b> • <b>AERONÁUTICA GESTIÓN</b> • <b>SOLIDWORKS</b> • <b>CASTROL</b> • <b>BÖLLHOFF</b> • <b>FACOM</b> • <b>CIMWORKS</b> • <b>VALMOLDES</b> • <b>NG</b> • <b>ADDYX</b> • <b>COGITIM</b> • <b>EASYCOMPOSITES</b> • <b>BOSSARD</b>
-  </p>
-</div>
-
