@@ -1,5 +1,5 @@
 <div align="center">
-<img src="profile/img/DSC01400.JPG" width="100%" style="object-fit: cover; height: 300px; border-radius: 10px;" alt="MOTO-MAQ-LAB-UC3M Banner" />
+<img src="profile/img/DSC01400.JPG" width="100%" style="object-fit: cover; height: 100%; border-radius: 10px;" alt="MOTO-MAQ-LAB-UC3M Banner" />
 
 <br/><br/>
 
